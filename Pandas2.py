@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 data = {
     'ID': [101, 102, 103, 104, 105, 106],
